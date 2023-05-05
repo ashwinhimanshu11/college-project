@@ -16,7 +16,9 @@ const WaterQuality = () => {
             </section>
             <section className="water-section">
                 <p>
-                    Space for data collected from the water sensors.
+                    <img src="../images/pH.png"></img>
+                    <img src="../images/Turbidity.png"></img>
+                    <img src="../images/Depth.png"></img>
                 </p>
             </section>
         </div>

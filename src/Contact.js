@@ -17,16 +17,16 @@ const Contact = () => {
             <section className="contact-section">
                 <ul>
                     <li>
-                        1
+                        1. Varun Sachan
                     </li>
                     <li>
-                        2
+                        2. Venna Venkata Siva Reddy
                     </li>
                     <li>
-                        3
+                        3. Ashwin Himanshu
                     </li>
                     <li>
-                        4
+                        4. Utkarsh Gupta
                     </li>
                 </ul>
             </section>

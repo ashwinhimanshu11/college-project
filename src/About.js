@@ -15,7 +15,7 @@ const About = () => {
                 </nav>
             </section>
             <section className="about-section">
-                Our team at [Name of your company] is passionate about improving the health and well-being of our communities through technology. We believe that access to real-time data on air and water quality is a critical component in protecting public health and the environment. Our goal is to make this data accessible and understandable to everyone, so that individuals and communities can take informed actions to reduce their exposure to harmful pollutants and improve their quality of life.<br />
+                Our team is passionate about improving the health and well-being of our communities through technology. We believe that access to real-time data on air and water quality is a critical component in protecting public health and the environment. Our goal is to make this data accessible and understandable to everyone, so that individuals and communities can take informed actions to reduce their exposure to harmful pollutants and improve their quality of life.<br />
 
                 Our team includes experienced engineers and designers who have a deep understanding of the technology and the environmental factors involved in measuring air and water quality. We work closely with experts in the field to develop and deploy our monitoring systems, and we are constantly exploring new technologies and approaches to improve our systems and expand their capabilities.<br />
 
